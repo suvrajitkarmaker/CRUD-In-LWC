@@ -1,0 +1,564 @@
+[
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591767194053,
+            "changeTime": 1591767194053,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591767194053,
+            "changeTime": 1591767194053,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591771724349,
+            "changeTime": 1591771724349,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591767194053,
+            "changeTime": 1591767194053,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591941130882,
+            "changeTime": 1591941130882,
+            "contentHash": "d28c04b7a6c4692e247d52e353b82dbc7cfb123a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591767844318,
+            "changeTime": 1591767844318,
+            "contentHash": "aa66d0ea1102b7727fb7a7282e02a0fd9387ddab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo/allStudentInfo.html",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo/allStudentInfo.html",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1591857062236,
+            "changeTime": 1591857062236,
+            "contentHash": "b143c9c52fbcdd65388bbce876c2cdca0640d657",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo/allStudentInfo.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo/allStudentInfo.js",
+            "isDirectory": false,
+            "size": 996,
+            "modifiedTime": 1591859571112,
+            "changeTime": 1591859571112,
+            "contentHash": "a97fd301fd44d0cec66b7211f6a07831edbc0323",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo/allStudentInfo.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/allStudentInfo/allStudentInfo.js-meta.xml",
+            "isDirectory": false,
+            "size": 415,
+            "modifiedTime": 1591770491547,
+            "changeTime": 1591770491547,
+            "contentHash": "304c55f10113792f0bf86dc82b45345f22d110c3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591767936457,
+            "changeTime": 1591767936457,
+            "contentHash": "a292cbc5468a8a232699701874c74598748f9a06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent/displayStudent.html",
+        {
+            "state": "u",
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent/displayStudent.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2107,
+            "modifiedTime": 1591963606597,
+            "changeTime": 1591963606597,
+            "isWorkspace": false,
+            "contentHash": "3fedb5a861d69daab89c36267a3d5a5086bead25"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent/displayStudent.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent/displayStudent.js",
+            "isDirectory": false,
+            "size": 1614,
+            "modifiedTime": 1591891139320,
+            "changeTime": 1591891139320,
+            "contentHash": "fc18c9be7958c19569e5cdbdf28a120a12b0a448",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent/displayStudent.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/displayStudent/displayStudent.js-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1591767936457,
+            "changeTime": 1591767936457,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591767874239,
+            "changeTime": 1591767874239,
+            "contentHash": "8c1300997efdaf2be4bf1f6c63114a1975c6b673",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search/search.html",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search/search.html",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1591768240281,
+            "changeTime": 1591768240281,
+            "contentHash": "1a88e25a7d49ae4b47cc23326e16092c66f71978",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search/search.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search/search.js",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1591772827881,
+            "changeTime": 1591772827881,
+            "contentHash": "e632fa9997488689705a5d152a76223553b15b3c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search/search.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/search/search.js-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1591767874239,
+            "changeTime": 1591767874239,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591767199457,
+            "changeTime": 1591767199457,
+            "contentHash": "7674640e8e70b1725c81384ea9465e5a0e2dd494",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/classes",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591771724349,
+            "changeTime": 1591771724349,
+            "contentHash": "8dbfd264bedfd027e74df4ba1d39269385894f25",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/classes/student.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/classes/student.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1688,
+            "modifiedTime": 1591963647520,
+            "changeTime": 1591963647520,
+            "contentHash": "d49d3eff07731c8980b9af0611116eafb782c0b7"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/classes/student.cls-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/classes/student.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1591771724349,
+            "changeTime": 1591771724349,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591782172552,
+            "changeTime": 1591782172552,
+            "contentHash": "892ff4fe6a06f6d41212bb98788985021988b73b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591781625387,
+            "changeTime": 1591781625387,
+            "contentHash": "2fd2402c452ae69a9dfd1ce24a82d209519831f6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo/addInfo.html",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo/addInfo.html",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1591856408992,
+            "changeTime": 1591856408992,
+            "contentHash": "a16d0884ea65c153368b6bc8df54a0fb7f5f84b8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo/addInfo.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo/addInfo.js",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1591859555571,
+            "changeTime": 1591859555571,
+            "contentHash": "a1d5b287e16b2805aee4e45f5100b1fe4a70ff20",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo/addInfo.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addInfo/addInfo.js-meta.xml",
+            "isDirectory": false,
+            "size": 420,
+            "modifiedTime": 1591788906706,
+            "changeTime": 1591788906706,
+            "contentHash": "af84d7e8a322b3edf4cc914016b2a6036b0d37f2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent/addStudent.html",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent/addStudent.html",
+            "isDirectory": false,
+            "size": 3511,
+            "modifiedTime": 1591931431317,
+            "changeTime": 1591893449459,
+            "contentHash": "04f05e61ff4826f4287c93625d48cc2a73bc4570",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent/addStudent.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent/addStudent.js",
+            "isDirectory": false,
+            "size": 1851,
+            "modifiedTime": 1591891883543,
+            "changeTime": 1591891883543,
+            "contentHash": "e29d588f7bb539e903a8ceba741d58f734f8dab4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent/addStudent.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/addStudent/addStudent.js-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1591781625387,
+            "changeTime": 1591781625387,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591857605000,
+            "changeTime": 1591857605000,
+            "contentHash": "d366f984a7b9643eaea7223cf884ece07e51118e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete/updateOrDelete.html",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete/updateOrDelete.html",
+            "isDirectory": false,
+            "size": 430,
+            "modifiedTime": 1591858065429,
+            "changeTime": 1591858065429,
+            "contentHash": "bfef3912cabb17bebef547e23442d48f12108aa1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete/updateOrDelete.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete/updateOrDelete.js",
+            "isDirectory": false,
+            "size": 1033,
+            "modifiedTime": 1591859578180,
+            "changeTime": 1591859578180,
+            "contentHash": "85ba38ce433adeec0138df7a289ac85b07660dd6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete/updateOrDelete.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateOrDelete/updateOrDelete.js-meta.xml",
+            "isDirectory": false,
+            "size": 420,
+            "modifiedTime": 1591857823457,
+            "changeTime": 1591857823457,
+            "contentHash": "1d9a3a9b3c2cb7e937652b4d665d54d48cd9f695",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591875869522,
+            "changeTime": 1591875869522,
+            "contentHash": "f94f847c1574c60e73fea7b1ba127da95ee4cb77",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent/updateStudent.html",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent/updateStudent.html",
+            "isDirectory": false,
+            "size": 3521,
+            "modifiedTime": 1591942817296,
+            "changeTime": 1591942817296,
+            "contentHash": "e38ed41f72c6cb6ed840aef31d7468852b9231c5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent/updateStudent.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent/updateStudent.js",
+            "isDirectory": false,
+            "size": 2339,
+            "modifiedTime": 1591892335172,
+            "changeTime": 1591892118773,
+            "contentHash": "b0d3c1c8b7e7b8bfc696427968b7e2f27970b892",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent/updateStudent.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/updateStudent/updateStudent.js-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1591875869522,
+            "changeTime": 1591875869522,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1591941130886,
+            "changeTime": 1591941130886,
+            "contentHash": "7e6ffd70793e650f149257f543b5a3b16772c7ee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC/fileUploadLWC.html",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC/fileUploadLWC.html",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1591941143030,
+            "changeTime": 1591941143030,
+            "contentHash": "97bea38f1d71faae52b4b675415e36a83ef98b8c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC/fileUploadLWC.js",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC/fileUploadLWC.js",
+            "isDirectory": false,
+            "size": 831,
+            "modifiedTime": 1591941152722,
+            "changeTime": 1591941152722,
+            "contentHash": "796afa9970763ebe1d46dfa3eed7c14383fe97ca",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC/fileUploadLWC.js-meta.xml",
+        {
+            "sourcePath": "/home/suvrajit/Desktop/CRUDlwc/force-app/main/default/lwc/fileUploadLWC/fileUploadLWC.js-meta.xml",
+            "isDirectory": false,
+            "size": 373,
+            "modifiedTime": 1591941169123,
+            "changeTime": 1591941169123,
+            "contentHash": "03bcc9a398fdf8e630ff4221080e7dfdd2b2a2f6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

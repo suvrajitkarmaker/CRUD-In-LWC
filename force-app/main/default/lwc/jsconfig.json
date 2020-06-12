@@ -1,0 +1,41 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/allStudentInfo": [
+                "allStudentInfo/allStudentInfo.js"
+            ],
+            "c/search": [
+                "search/search.js"
+            ],
+            "c/displayStudent": [
+                "displayStudent/displayStudent.js"
+            ],
+            "c/addStudent": [
+                "addStudent/addStudent.js"
+            ],
+            "c/addInfo": [
+                "addInfo/addInfo.js"
+            ],
+            "c/updateOrDelete": [
+                "updateOrDelete/updateOrDelete.js"
+            ],
+            "c/updateStudent": [
+                "updateStudent/updateStudent.js"
+            ],
+            "c/fileUploadLWC": [
+                "fileUploadLWC/fileUploadLWC.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}

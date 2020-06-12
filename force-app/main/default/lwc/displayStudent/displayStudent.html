@@ -1,0 +1,41 @@
+<template>
+    <template if:true={studentRecord}>
+        <div>
+            <div class="slds-grid slds-wrap">
+                <template for:each={studentRecord} for:item="item">
+                <!-- <aura:iteration items="{!v.recordList}" var="item" indexVar="index"> -->
+                    <div class="slds-col slds-size_1-of-4 slds-p-around_small" key={item.Id}>
+                        <lightning-card title={item.Name} icon-name="custom:custom54">
+                            <div class="slds-p-horizontal_samll">
+                                <div class="slds-grid slds-gutters">
+                                    <div class="slds-col slds-size_1-of-3">
+                                        <p>
+                                            <img src={item.image__c} width="100" height="100" />
+                                        </p>
+                                    </div>
+                                    <div class="slds-col slds-size_2-of-3">
+                                        ID: {item.id__c} <br />
+                                        Name: {item.Name}<br />
+                                        Phone: {item.phone__c}<br />
+                                        Email: {item.email__c}<br />
+                                    </div>
+                                </div>
+                            </div>
+                            <template if:true={updateData}>
+                                <c-update-student studentid={item.Id}></c-update-student>
+                            </template>
+                            <template if:true={deleteData}>
+                                <p class="slds-m-around_small">
+                                    <lightning-button name={item.Id} label="Delete" variant="brand" onclick={handleDelete}>
+                    
+                                    </lightning-button>
+                                </p>
+                            </template>
+                        </lightning-card>
+                    </div>
+                </template>
+            </div>
+        </div>
+    </template>
+    
+</template>

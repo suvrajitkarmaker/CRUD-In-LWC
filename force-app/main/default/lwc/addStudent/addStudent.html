@@ -1,0 +1,55 @@
+<template>
+    <div class="slds-m-around_medium">
+        <lightning-button label="Add student" variant="brand" onclick={openmodal}></lightning-button>
+        <template if:true={openmodel}>
+            <div>
+                <section role="dialog" tabindex="-1" aria-labelledby="modal-heading-01" aria-modal="true"
+                    aria-describedby="modal-content-id-1" class="slds-modal slds-fade-in-open">
+                    <div class="slds-modal__container">
+                        <header class="slds-modal__header">
+                            <button class="slds-button slds-button_icon slds-modal__close slds-button_icon-inverse"
+                                title="Close" onclick={closeModal}>
+                                <lightning-icon icon-name="utility:close" size="medium">
+                                </lightning-icon>
+                                <span class="slds-assistive-text">Close</span>
+                            </button>
+                            <h2 id="modal-heading-01" class="slds-text-heading_medium slds-hyphenate">Contact
+                                Details</h2>
+                        </header>
+                        <div class="slds-modal__content slds-p-around_medium" id="modal-content-id-1">
+
+                            <div class="slds-m-around_medium">
+                                <!-- <template if:true={contact.data}> -->
+                                <!-- <lightning-datatable
+                                                        key-field="Id"
+                                                        data={contact.data}
+                                                        columns={columns}
+                                                        >
+                                                    </lightning-datatable> -->
+                                <div>
+                                    <lightning-input onchange={handleInputChange} type="text" name="Name"
+                                        label="Account Name" value={studentDetails.Name}></lightning-input>
+                                    <lightning-input onchange={handleInputChange} type="text" name="id__c"
+                                        label="School Id" value={studentDetails.id__c}></lightning-input>
+                                    <lightning-input onchange={handleInputChange} type="text" name="email__c"
+                                        label="Email" value={studentDetails.email__c}></lightning-input>
+                                    <lightning-input onchange={handleInputChange} type="text" name="phone__c"
+                                        label="Phone" value={studentDetails.phone__c}></lightning-input>
+                                    <lightning-input onchange={handleInputChange} type="text" name="image__c"
+                                        label="Image" value={studentDetails.image__c}></lightning-input>
+                                </div>
+                                <!-- </template> -->
+                            </div>
+
+                        </div>
+                        <footer class="slds-modal__footer">
+                            <lightning-button label="Save Data" variant="brand" onclick={saveMethod}>
+                            </lightning-button>
+                        </footer>
+                    </div>
+                </section>
+                <div class="slds-backdrop slds-backdrop_open"></div>
+            </div>
+        </template>
+    </div>
+</template>

@@ -1,0 +1,10 @@
+<template>
+    <div class="slds-m-left_small slds-m-right_small slds-m-bottom_small">
+        <c-search onsearch={handleEvent}></c-search>
+    </div>
+    <div class="slds-m-left_small slds-m-right_small slds-m-bottom_small">
+        <template if:true={studentRecords} >
+            <c-display-student student-record={studentRecords}></c-display-student>
+        </template>
+    </div>
+</template>
